@@ -1,6 +1,6 @@
 # FilmScaningProject
 
-There are two modes of running the the automization: 
+There are two modes of running this automization: 
 
 1- Mechanized version will only require an Arduino sketch to be uploaded to an Arduino. Corrections and framings of are made manually using push buttons. 
 
